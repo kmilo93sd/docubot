@@ -1,4 +1,4 @@
-# 🤖 Documentador Automático de Código
+# 🤖 DocuBot
 
 Un agente RAG (Retrieval Augmented Generation) inteligente que utiliza **AWS Bedrock**, **ChromaDB** y **Claude 4 Sonnet** para analizar repositorios de código y generar documentación técnica automáticamente.
 
@@ -33,7 +33,7 @@ Antes de comenzar, asegúrate de tener:
 ```bash
 # Si tienes el proyecto en Git
 git clone <url-del-repositorio>
-cd documentador-automatico
+cd docubot
 
 # O simplemente descarga y extrae el ZIP
 ```
@@ -112,7 +112,7 @@ aws bedrock list-foundation-models --region us-east-1
 ### Estructura Recomendada
 
 ```
-documentador-automatico/
+docubot/
 ├── repository/                    # 👈 Coloca aquí tu código
 │   └── tu-proyecto/
 │       └── src/
