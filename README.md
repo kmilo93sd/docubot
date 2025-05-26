@@ -457,7 +457,7 @@ Para contribuir al proyecto:
 
 ## 📄 Licencia
 
-[Especificar licencia del proyecto]
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE) - ver el archivo LICENSE para más detalles.
 
 ## 🆘 Soporte
 
